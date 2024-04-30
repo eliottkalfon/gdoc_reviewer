@@ -1,0 +1,8 @@
+google-api-core==2.18.0
+google-api-python-client==2.126.0
+google-auth==2.29.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+googleapis-common-protos==1.63.0
+openai==1.23.2
+tiktoken==0.6.0

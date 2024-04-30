@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# Assuming helpers.py contains the necessary functions
 from helpers import (
     load_credentials, 
     extract_doc_id, 

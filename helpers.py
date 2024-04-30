@@ -44,7 +44,6 @@ def extract_doc_id(url: str) -> str:
     else:
         return None
     
-
 def count_tokens(input_text: str) -> int:
     """Counts the GPT-4 tokens in a string"""
     encoding = tiktoken.encoding_for_model("gpt-4-turbo")

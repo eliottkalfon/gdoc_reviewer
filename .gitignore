@@ -1,10 +1,7 @@
 # credentials
-google_credentials/*
+google_credentials/credentials.json
+google_credentials/token.pickle
 *.env
-# folder
-!google_credentials/.gitkeep
-
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
